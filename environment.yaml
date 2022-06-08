@@ -1,0 +1,15 @@
+name: environmentname
+channels:
+  - conda-forge
+  - bioconda
+  - r
+  - defaults
+dependencies:
+  - biopython=1.71
+  - bioservices=1.5.2
+  - colorlog=4.8.0
+  - graphviz
+  - pandas=0.22.0
+  - python=3.6.2
+  - pyyaml=3.12
+  - snakemake=4.0.0 

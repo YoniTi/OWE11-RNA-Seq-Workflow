@@ -1,0 +1,55 @@
+Gene: 342240348
+
+-Gene: 38258550
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>97</Count><RetMax>20</RetMax><RetStart>0</RetStart><IdList>
+<Id>35343793</Id>
+<Id>35327990</Id>
+<Id>34936656</Id>
+<Id>33591320</Id>
+<Id>33382157</Id>
+<Id>32644157</Id>
+<Id>32513870</Id>
+<Id>32023456</Id>
+<Id>30657965</Id>
+<Id>30482842</Id>
+<Id>29391496</Id>
+<Id>29088268</Id>
+<Id>28862774</Id>
+<Id>28467471</Id>
+<Id>28180323</Id>
+<Id>27974172</Id>
+<Id>26874520</Id>
+<Id>25484163</Id>
+<Id>25368150</Id>
+<Id>24891441</Id>
+</IdList><TranslationSet><Translation>     <From>DNA replication</From>     <To>"dna replication"[MeSH Terms] OR ("dna"[All Fields] AND "replication"[All Fields]) OR "dna replication"[All Fields]</To>    </Translation><Translation>     <From>protein</From>     <To>"proteins"[MeSH Terms] OR "proteins"[All Fields] OR "protein"[All Fields]</To>    </Translation><Translation>     <From>repair</From>     <To>"wound healing"[MeSH Terms] OR ("wound"[All Fields] AND "healing"[All Fields]) OR "wound healing"[All Fields] OR "repair"[All Fields]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>"dna replication"[MeSH Terms]</Term>    <Field>MeSH Terms</Field>    <Count>60780</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"dna"[All Fields]</Term>    <Field>All Fields</Field>    <Count>1793002</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"replication"[All Fields]</Term>    <Field>All Fields</Field>    <Count>256068</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <OP>GROUP</OP>   <OP>OR</OP>   <TermSet>    <Term>"dna replication"[All Fields]</Term>    <Field>All Fields</Field>    <Count>69770</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>   <TermSet>    <Term>"wound healing"[MeSH Terms]</Term>    <Field>MeSH Terms</Field>    <Count>138356</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"wound"[All Fields]</Term>    <Field>All Fields</Field>    <Count>291078</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"healing"[All Fields]</Term>    <Field>All Fields</Field>    <Count>258657</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <OP>GROUP</OP>   <OP>OR</OP>   <TermSet>    <Term>"wound healing"[All Fields]</Term>    <Field>All Fields</Field>    <Count>149596</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <TermSet>    <Term>"repair"[All Fields]</Term>    <Field>All Fields</Field>    <Count>396648</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>   <OP>AND</OP>   <TermSet>    <Term>"proteins"[MeSH Terms]</Term>    <Field>MeSH Terms</Field>    <Count>6906034</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"proteins"[All Fields]</Term>    <Field>All Fields</Field>    <Count>3110086</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <TermSet>    <Term>"protein"[All Fields]</Term>    <Field>All Fields</Field>    <Count>4275930</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>   <OP>AND</OP>   <TermSet>    <Term>RecF[All Fields]</Term>    <Field>All Fields</Field>    <Count>605</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>("dna replication"[MeSH Terms] OR ("dna"[All Fields] AND "replication"[All Fields]) OR "dna replication"[All Fields]) AND ("wound healing"[MeSH Terms] OR ("wound"[All Fields] AND "healing"[All Fields]) OR "wound healing"[All Fields] OR "repair"[All Fields]) AND ("proteins"[MeSH Terms] OR "proteins"[All Fields] OR "protein"[All Fields]) AND RecF[All Fields]</QueryTranslation><WarningList><PhraseIgnored>and</PhraseIgnored></WarningList></eSearchResult>
+
+-Gene: 32171524
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>38</Count><RetMax>20</RetMax><RetStart>0</RetStart><IdList>
+<Id>30640510</Id>
+<Id>29247757</Id>
+<Id>26639987</Id>
+<Id>25495903</Id>
+<Id>24961696</Id>
+<Id>22286050</Id>
+<Id>20034956</Id>
+<Id>19564499</Id>
+<Id>19446023</Id>
+<Id>17277072</Id>
+<Id>16682557</Id>
+<Id>15923259</Id>
+<Id>15522293</Id>
+<Id>14729335</Id>
+<Id>12823975</Id>
+<Id>12417713</Id>
+<Id>12399033</Id>
+<Id>11790138</Id>
+<Id>11591671</Id>
+<Id>10753109</Id>
+</IdList><TranslationSet><Translation>     <From>ribosomal protein S6</From>     <To>"ribosomal protein s6"[MeSH Terms] OR ("ribosomal"[All Fields] AND "protein"[All Fields] AND "s6"[All Fields]) OR "ribosomal protein s6"[All Fields]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>30S[All Fields]</Term>    <Field>All Fields</Field>    <Count>6483</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"ribosomal protein s6"[MeSH Terms]</Term>    <Field>MeSH Terms</Field>    <Count>931</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"ribosomal"[All Fields]</Term>    <Field>All Fields</Field>    <Count>165952</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"protein"[All Fields]</Term>    <Field>All Fields</Field>    <Count>4275930</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <TermSet>    <Term>"s6"[All Fields]</Term>    <Field>All Fields</Field>    <Count>17173</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <OP>GROUP</OP>   <OP>OR</OP>   <TermSet>    <Term>"ribosomal protein s6"[All Fields]</Term>    <Field>All Fields</Field>    <Count>8230</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>   <OP>AND</OP>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>30S[All Fields] AND ("ribosomal protein s6"[MeSH Terms] OR ("ribosomal"[All Fields] AND "protein"[All Fields] AND "s6"[All Fields]) OR "ribosomal protein s6"[All Fields])</QueryTranslation></eSearchResult>
+
+-
