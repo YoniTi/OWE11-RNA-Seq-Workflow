@@ -11,8 +11,9 @@ A workflow for getting information for genes based on RNA-seq data. This workflo
     
   `$ bash Miniconda3-latest-Linux-x86_64.sh`
 
-### Create the environment with the provided environment file
+### Create new conda environment with the provided environment file
   Please note: you have to open the environment.yaml file and add your own name at 'name:'
+  
   `$ conda env create --file {path-to-file}/environment.yaml`
 
   To activate your environment:
