@@ -20,14 +20,16 @@ A workflow for getting information for genes based on RNA-seq data. This workflo
 
   `$ source activate {your-environment-name}`
 
-  To deactivate simply:
+  To deactivate:
 
   `$ source deactivate`
   
 ### Run the workflow by using the `snakemake` command
   
   `$ snakemake {optional parameters}`
+  
 To run the complete workflow use `snakemake report`
+
 To visualize the workflow in a pdf use `snakemake visualize`
 
 
