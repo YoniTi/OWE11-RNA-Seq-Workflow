@@ -5,15 +5,13 @@ A workflow for getting information for genes based on RNA-seq data. This workflo
 ### Copy this repo in a new directory
   `> git clone https://github.com/YoniTi/OWE11-RNA-Seq-Workflow.git`
   
-  <br/>
-## Next install Minidonda 3
+### Next install Minidonda 3
 
   `$ wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh`
     
   `$ bash Miniconda3-latest-Linux-x86_64.sh`
-  
-  <br/>
-## Create the environment with the provided environment file
+
+### Create the environment with the provided environment file
   Please note: you have to open the environment.yaml file and add your own name at 'name:'
   `$ conda env create --file {path-to-file}/environment.yaml`
 
@@ -25,8 +23,7 @@ A workflow for getting information for genes based on RNA-seq data. This workflo
 
   `$ source deactivate`
   
-  <br/>
-## Run the workflow by using the `snakemake` command
+### Run the workflow by using the `snakemake` command
   
   `$ snakemake {optional parameters}`
 To run the complete workflow use `snakemake report`
