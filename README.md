@@ -1,7 +1,7 @@
 # OWE11 RNA-Seq-Workflow
 A workflow for getting information of genes based on RNA-seq data. This workflow is build using Snakemake and uses various scripts to gather all requested information.
 
-## Get started
+## Get started using Linux
 ### Copy this repo in a new directory
   `> git clone https://github.com/YoniTi/OWE11-RNA-Seq-Workflow.git`
 
