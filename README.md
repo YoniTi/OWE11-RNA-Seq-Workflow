@@ -31,9 +31,9 @@ Because this workflow is tested previously, please remove everything from the `d
   
   `$ snakemake {optional parameters}`
   
-To run the complete workflow use `snakemake report`
+To run the complete workflow use `$ snakemake report`
 
-To visualize the workflow in a pdf use `snakemake visualize`
+To visualize the workflow in a pdf use `$ snakemake visualize`
 
 
 After running the workflow you can find a `report.txt` file in the root of the project directory.
@@ -49,6 +49,6 @@ The report shows all genes in order of quantity per PubMed articles sorted by lo
 
 
 ## The workflow is visualized in dag.pdf in the root directory
-If this file is missing please run `snakemake visualize` in the terminal.
+If this file is missing please run `$ snakemake visualize` in the terminal.
 
 The workflow consists of 9 steps where everything combines in the last step `report`
