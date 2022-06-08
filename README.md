@@ -6,14 +6,14 @@ A workflow for getting information for genes based on RNA-seq data. This workflo
   `> git clone https://github.com/YoniTi/OWE11-RNA-Seq-Workflow.git`
   
   <br/>
-### Next install Minidonda 3
+## Next install Minidonda 3
 
   `$ wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh`
     
   `$ bash Miniconda3-latest-Linux-x86_64.sh`
   
   <br/>
-### Create the environment with the provided environment file
+## Create the environment with the provided environment file
   Please note: you have to open the environment.yaml file and add your own name at 'name:'
   `$ conda env create --file {path-to-file}/environment.yaml`
 
@@ -26,7 +26,7 @@ A workflow for getting information for genes based on RNA-seq data. This workflo
   `$ source deactivate`
   
   <br/>
-#### Run the workflow by using the `snakemake` command
+## Run the workflow by using the `snakemake` command
   
   `$ snakemake {optional parameters}`
 To run the complete workflow use `snakemake report`
@@ -45,6 +45,6 @@ The report shows all genes in order of quantity per PubMed articles sorted by lo
 * Pathway
 
 
-### The workflow is visualized in dag.pdf in the root directory
+## The workflow is visualized in dag.pdf in the root directory
 If this file is missing please run snakemake visualize in the terminal.
 The workflow consists of 9 steps where everything combines in the last step 'report'
