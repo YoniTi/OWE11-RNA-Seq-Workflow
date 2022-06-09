@@ -37,7 +37,7 @@ To visualize the workflow in a pdf use `$ snakemake visualize`
 
 
 After running the workflow you can find a `report.txt` file in the root of the project directory.
-The report shows all genes in order of quantity per PubMed articles sorted by low to high. To see specific data files see the `data` directory.
+The report shows all genes in order of quantity of PubMed articles sorted by low to high. To see specific data files see the `data` directory.
 
 ## The report contains the following information:
 * Gene ID
