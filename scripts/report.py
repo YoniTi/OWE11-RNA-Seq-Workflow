@@ -36,6 +36,8 @@ with open(input[0], "r") as f1, open(input[1], "r") as f2, open(input[2], "r") a
 		convertedGeneIDList.append(convertedGeneID)
 	content = f3.read()
 	seqList = content.split(">")
+	while "" in seqList:
+		seqList.remove("")
 	for line in f4:
 		lineList = line.split('\n')
 		function = lineList[0]
