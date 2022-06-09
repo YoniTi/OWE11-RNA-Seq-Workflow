@@ -25,7 +25,7 @@ with open(input[0], "r") as f1, open(input[1], "r") as f2, open(input[2], "r") a
 			outfile.write(sortedPubMedIDList[counter2]+'\n')
 			counter2+=1
 			
-	outfile.write('\n'+"Results per Gene:"+'\n'+'\n')
+	outfile.write('\n'+"Results by Gene:"+'\n'+'\n')
 	for line in f1:
 		lineList = line.split('\n')
 		geneID = lineList[0]
