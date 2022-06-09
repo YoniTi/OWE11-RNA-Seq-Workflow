@@ -8,7 +8,7 @@ A workflow for getting information of genes based on RNA-seq data. This workflow
 ### Remove data files
 Because this workflow is tested previously, please remove everything from the `data` directory except `RNA-Seq-counts.txt`. Also remove `report.txt` from the root directory.
 
-### Next install Minidonda 3
+### Next install Miniconda 3
 
   `$ wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh`
     
