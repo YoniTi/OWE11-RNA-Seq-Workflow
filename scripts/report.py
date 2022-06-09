@@ -15,7 +15,7 @@ countPubMedIDList = []
 with open(input[0], "r") as f1, open(input[1], "r") as f2, open(input[2], "r") as f3, open(input[3], "r") as f4, open(input[4], "r") as f5, open(input [5], "r") as f6, open(input[6], "r") as f7, open(output[0], 'w') as outfile:
 	outfile.write("Results of the workflow"+'\n'+'\n')
 			
-	outfile.write("Genes in order of quantity per PubMed article sorted by low to high:"+'\n')
+	outfile.write("Genes in order of quantity of PubMed articles sorted by low to high:"+'\n')
 	for line in f7:
 		if "Gene:" in line:
 			countPubMedIDList = []
