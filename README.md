@@ -33,6 +33,8 @@ Because this workflow is tested previously, please remove everything from the `d
   
 To run the complete workflow use `$ snakemake report`
 
+Please note: `$ snakemake report` only works if there is no `report.txt` file in the project directory.
+
 To visualize the workflow in a pdf use `$ snakemake visualize`
 
 
