@@ -1,4 +1,32 @@
-Gene: 342240348
+Gene: 38257539
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>32</Count><RetMax>20</RetMax><RetStart>0</RetStart><IdList>
+<Id>35241965</Id>
+<Id>34769873</Id>
+<Id>32102945</Id>
+<Id>31665475</Id>
+<Id>28130843</Id>
+<Id>26220967</Id>
+<Id>26134530</Id>
+<Id>26041381</Id>
+<Id>24574433</Id>
+<Id>21718544</Id>
+<Id>21479931</Id>
+<Id>20670397</Id>
+<Id>19684115</Id>
+<Id>19081080</Id>
+<Id>18854156</Id>
+<Id>18835566</Id>
+<Id>17680349</Id>
+<Id>16036556</Id>
+<Id>15611053</Id>
+<Id>15336485</Id>
+</IdList><TranslationSet><Translation>     <From>Chromosomal</From>     <To>"chromosomes"[MeSH Terms] OR "chromosomes"[All Fields] OR "chromosomal"[All Fields]</To>    </Translation><Translation>     <From>replication initiator protein</From>     <To>"replication initiator protein"[Supplementary Concept] OR "replication initiator protein"[All Fields]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>"chromosomes"[MeSH Terms]</Term>    <Field>MeSH Terms</Field>    <Count>285683</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"chromosomes"[All Fields]</Term>    <Field>All Fields</Field>    <Count>247195</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <TermSet>    <Term>"chromosomal"[All Fields]</Term>    <Field>All Fields</Field>    <Count>139870</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>   <TermSet>    <Term>"replication initiator protein"[Supplementary Concept]</Term>    <Field>Supplementary Concept</Field>    <Count>684</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"replication initiator protein"[All Fields]</Term>    <Field>All Fields</Field>    <Count>878</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>   <OP>AND</OP>   <TermSet>    <Term>DnaA[All Fields]</Term>    <Field>All Fields</Field>    <Count>1539</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>("chromosomes"[MeSH Terms] OR "chromosomes"[All Fields] OR "chromosomal"[All Fields]) AND ("replication initiator protein"[Supplementary Concept] OR "replication initiator protein"[All Fields]) AND DnaA[All Fields]</QueryTranslation></eSearchResult>
+
+-Gene: 342240347
+
+-Gene: 342240348
 
 -Gene: 38258550
 <?xml version="1.0" encoding="UTF-8" ?>
@@ -24,7 +52,7 @@ Gene: 342240348
 <Id>25484163</Id>
 <Id>25368150</Id>
 <Id>24891441</Id>
-</IdList><TranslationSet><Translation>     <From>DNA replication</From>     <To>"dna replication"[MeSH Terms] OR ("dna"[All Fields] AND "replication"[All Fields]) OR "dna replication"[All Fields]</To>    </Translation><Translation>     <From>protein</From>     <To>"proteins"[MeSH Terms] OR "proteins"[All Fields] OR "protein"[All Fields]</To>    </Translation><Translation>     <From>repair</From>     <To>"wound healing"[MeSH Terms] OR ("wound"[All Fields] AND "healing"[All Fields]) OR "wound healing"[All Fields] OR "repair"[All Fields]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>"dna replication"[MeSH Terms]</Term>    <Field>MeSH Terms</Field>    <Count>60780</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"dna"[All Fields]</Term>    <Field>All Fields</Field>    <Count>1793002</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"replication"[All Fields]</Term>    <Field>All Fields</Field>    <Count>256068</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <OP>GROUP</OP>   <OP>OR</OP>   <TermSet>    <Term>"dna replication"[All Fields]</Term>    <Field>All Fields</Field>    <Count>69770</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>   <TermSet>    <Term>"wound healing"[MeSH Terms]</Term>    <Field>MeSH Terms</Field>    <Count>138356</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"wound"[All Fields]</Term>    <Field>All Fields</Field>    <Count>291078</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"healing"[All Fields]</Term>    <Field>All Fields</Field>    <Count>258657</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <OP>GROUP</OP>   <OP>OR</OP>   <TermSet>    <Term>"wound healing"[All Fields]</Term>    <Field>All Fields</Field>    <Count>149596</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <TermSet>    <Term>"repair"[All Fields]</Term>    <Field>All Fields</Field>    <Count>396648</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>   <OP>AND</OP>   <TermSet>    <Term>"proteins"[MeSH Terms]</Term>    <Field>MeSH Terms</Field>    <Count>6906034</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"proteins"[All Fields]</Term>    <Field>All Fields</Field>    <Count>3110086</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <TermSet>    <Term>"protein"[All Fields]</Term>    <Field>All Fields</Field>    <Count>4275930</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>   <OP>AND</OP>   <TermSet>    <Term>RecF[All Fields]</Term>    <Field>All Fields</Field>    <Count>605</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>("dna replication"[MeSH Terms] OR ("dna"[All Fields] AND "replication"[All Fields]) OR "dna replication"[All Fields]) AND ("wound healing"[MeSH Terms] OR ("wound"[All Fields] AND "healing"[All Fields]) OR "wound healing"[All Fields] OR "repair"[All Fields]) AND ("proteins"[MeSH Terms] OR "proteins"[All Fields] OR "protein"[All Fields]) AND RecF[All Fields]</QueryTranslation><WarningList><PhraseIgnored>and</PhraseIgnored></WarningList></eSearchResult>
+</IdList><TranslationSet><Translation>     <From>DNA replication</From>     <To>"dna replication"[MeSH Terms] OR ("dna"[All Fields] AND "replication"[All Fields]) OR "dna replication"[All Fields]</To>    </Translation><Translation>     <From>protein</From>     <To>"proteins"[MeSH Terms] OR "proteins"[All Fields] OR "protein"[All Fields]</To>    </Translation><Translation>     <From>repair</From>     <To>"wound healing"[MeSH Terms] OR ("wound"[All Fields] AND "healing"[All Fields]) OR "wound healing"[All Fields] OR "repair"[All Fields]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>"dna replication"[MeSH Terms]</Term>    <Field>MeSH Terms</Field>    <Count>60786</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"dna"[All Fields]</Term>    <Field>All Fields</Field>    <Count>1793158</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"replication"[All Fields]</Term>    <Field>All Fields</Field>    <Count>256081</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <OP>GROUP</OP>   <OP>OR</OP>   <TermSet>    <Term>"dna replication"[All Fields]</Term>    <Field>All Fields</Field>    <Count>69773</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>   <TermSet>    <Term>"wound healing"[MeSH Terms]</Term>    <Field>MeSH Terms</Field>    <Count>138397</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"wound"[All Fields]</Term>    <Field>All Fields</Field>    <Count>291125</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"healing"[All Fields]</Term>    <Field>All Fields</Field>    <Count>258689</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <OP>GROUP</OP>   <OP>OR</OP>   <TermSet>    <Term>"wound healing"[All Fields]</Term>    <Field>All Fields</Field>    <Count>149618</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <TermSet>    <Term>"repair"[All Fields]</Term>    <Field>All Fields</Field>    <Count>396719</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>   <OP>AND</OP>   <TermSet>    <Term>"proteins"[MeSH Terms]</Term>    <Field>MeSH Terms</Field>    <Count>6907944</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"proteins"[All Fields]</Term>    <Field>All Fields</Field>    <Count>3110584</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <TermSet>    <Term>"protein"[All Fields]</Term>    <Field>All Fields</Field>    <Count>4276621</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>   <OP>AND</OP>   <TermSet>    <Term>RecF[All Fields]</Term>    <Field>All Fields</Field>    <Count>605</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>("dna replication"[MeSH Terms] OR ("dna"[All Fields] AND "replication"[All Fields]) OR "dna replication"[All Fields]) AND ("wound healing"[MeSH Terms] OR ("wound"[All Fields] AND "healing"[All Fields]) OR "wound healing"[All Fields] OR "repair"[All Fields]) AND ("proteins"[MeSH Terms] OR "proteins"[All Fields] OR "protein"[All Fields]) AND RecF[All Fields]</QueryTranslation><WarningList><PhraseIgnored>and</PhraseIgnored></WarningList></eSearchResult>
 
 -Gene: 32171524
 <?xml version="1.0" encoding="UTF-8" ?>
@@ -50,6 +78,46 @@ Gene: 342240348
 <Id>11790138</Id>
 <Id>11591671</Id>
 <Id>10753109</Id>
-</IdList><TranslationSet><Translation>     <From>ribosomal protein S6</From>     <To>"ribosomal protein s6"[MeSH Terms] OR ("ribosomal"[All Fields] AND "protein"[All Fields] AND "s6"[All Fields]) OR "ribosomal protein s6"[All Fields]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>30S[All Fields]</Term>    <Field>All Fields</Field>    <Count>6483</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"ribosomal protein s6"[MeSH Terms]</Term>    <Field>MeSH Terms</Field>    <Count>931</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"ribosomal"[All Fields]</Term>    <Field>All Fields</Field>    <Count>165952</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"protein"[All Fields]</Term>    <Field>All Fields</Field>    <Count>4275930</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <TermSet>    <Term>"s6"[All Fields]</Term>    <Field>All Fields</Field>    <Count>17173</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <OP>GROUP</OP>   <OP>OR</OP>   <TermSet>    <Term>"ribosomal protein s6"[All Fields]</Term>    <Field>All Fields</Field>    <Count>8230</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>   <OP>AND</OP>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>30S[All Fields] AND ("ribosomal protein s6"[MeSH Terms] OR ("ribosomal"[All Fields] AND "protein"[All Fields] AND "s6"[All Fields]) OR "ribosomal protein s6"[All Fields])</QueryTranslation></eSearchResult>
+</IdList><TranslationSet><Translation>     <From>ribosomal protein S6</From>     <To>"ribosomal protein s6"[MeSH Terms] OR ("ribosomal"[All Fields] AND "protein"[All Fields] AND "s6"[All Fields]) OR "ribosomal protein s6"[All Fields]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>30S[All Fields]</Term>    <Field>All Fields</Field>    <Count>6483</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"ribosomal protein s6"[MeSH Terms]</Term>    <Field>MeSH Terms</Field>    <Count>931</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"ribosomal"[All Fields]</Term>    <Field>All Fields</Field>    <Count>166029</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"protein"[All Fields]</Term>    <Field>All Fields</Field>    <Count>4276621</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <TermSet>    <Term>"s6"[All Fields]</Term>    <Field>All Fields</Field>    <Count>17174</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <OP>GROUP</OP>   <OP>OR</OP>   <TermSet>    <Term>"ribosomal protein s6"[All Fields]</Term>    <Field>All Fields</Field>    <Count>8231</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>   <OP>AND</OP>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>30S[All Fields] AND ("ribosomal protein s6"[MeSH Terms] OR ("ribosomal"[All Fields] AND "protein"[All Fields] AND "s6"[All Fields]) OR "ribosomal protein s6"[All Fields])</QueryTranslation></eSearchResult>
+
+-Gene: 37999422
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>18155</Count><RetMax>20</RetMax><RetStart>0</RetStart><IdList>
+<Id>35651624</Id>
+<Id>35646157</Id>
+<Id>35628649</Id>
+<Id>35628622</Id>
+<Id>35626664</Id>
+<Id>35625596</Id>
+<Id>35622584</Id>
+<Id>35621967</Id>
+<Id>35619700</Id>
+<Id>35616155</Id>
+<Id>35616130</Id>
+<Id>35609322</Id>
+<Id>35608258</Id>
+<Id>35597551</Id>
+<Id>35581205</Id>
+<Id>35568959</Id>
+<Id>35563554</Id>
+<Id>35563397</Id>
+<Id>35550567</Id>
+<Id>35549551</Id>
+</IdList><TranslationSet><Translation>     <From>Single-stranded DNA-binding protein;</From>     <To>"dna-binding proteins"[MeSH Terms] OR ("dna-binding"[All Fields] AND "proteins"[All Fields]) OR "dna-binding proteins"[All Fields] OR ("single"[All Fields] AND "stranded"[All Fields] AND "dna"[All Fields] AND "binding"[All Fields] AND "protein"[All Fields]) OR "single stranded dna binding protein"[All Fields]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>"dna-binding proteins"[MeSH Terms]</Term>    <Field>MeSH Terms</Field>    <Count>611587</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>"dna-binding"[All Fields]</Term>    <Field>All Fields</Field>    <Count>207950</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"proteins"[All Fields]</Term>    <Field>All Fields</Field>    <Count>3110584</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <OP>GROUP</OP>   <OP>OR</OP>   <TermSet>    <Term>"dna-binding proteins"[All Fields]</Term>    <Field>All Fields</Field>    <Count>162356</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <TermSet>    <Term>"single"[All Fields]</Term>    <Field>All Fields</Field>    <Count>1963369</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"stranded"[All Fields]</Term>    <Field>All Fields</Field>    <Count>105070</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <TermSet>    <Term>"dna"[All Fields]</Term>    <Field>All Fields</Field>    <Count>1793158</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <TermSet>    <Term>"binding"[All Fields]</Term>    <Field>All Fields</Field>    <Count>1626882</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <TermSet>    <Term>"protein"[All Fields]</Term>    <Field>All Fields</Field>    <Count>4276621</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <OP>GROUP</OP>   <OP>OR</OP>   <TermSet>    <Term>"single stranded dna binding protein"[All Fields]</Term>    <Field>All Fields</Field>    <Count>1611</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>   <TermSet>    <Term>Short[All Fields]</Term>    <Field>All Fields</Field>    <Count>910076</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>("dna-binding proteins"[MeSH Terms] OR ("dna-binding"[All Fields] AND "proteins"[All Fields]) OR "dna-binding proteins"[All Fields] OR ("single"[All Fields] AND "stranded"[All Fields] AND "dna"[All Fields] AND "binding"[All Fields] AND "protein"[All Fields]) OR "single stranded dna binding protein"[All Fields]) AND Short[All Fields]</QueryTranslation></eSearchResult>
+
+-Gene: 38258549
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>6</Count><RetMax>6</RetMax><RetStart>0</RetStart><IdList>
+<Id>21256985</Id>
+<Id>20034956</Id>
+<Id>15522293</Id>
+<Id>10753109</Id>
+<Id>9370344</Id>
+<Id>3910100</Id>
+</IdList><TranslationSet><Translation>     <From>ribosomal protein S18</From>     <To>"ribosomal protein S18"[Supplementary Concept] OR "ribosomal protein S18"[All Fields] OR "ribosomal protein s18"[All Fields]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>30S[All Fields]</Term>    <Field>All Fields</Field>    <Count>6483</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"ribosomal protein S18"[Supplementary Concept]</Term>    <Field>Supplementary Concept</Field>    <Count>72</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"ribosomal protein S18"[All Fields]</Term>    <Field>All Fields</Field>    <Count>112</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <TermSet>    <Term>"ribosomal protein s18"[All Fields]</Term>    <Field>All Fields</Field>    <Count>112</Count>    <Explode>N</Explode>   </TermSet>   <OP>OR</OP>   <OP>GROUP</OP>   <OP>AND</OP>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>30S[All Fields] AND ("ribosomal protein S18"[Supplementary Concept] OR "ribosomal protein S18"[All Fields] OR "ribosomal protein s18"[All Fields])</QueryTranslation></eSearchResult>
+
+-Gene: 342240355
 
 -

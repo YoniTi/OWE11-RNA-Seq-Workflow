@@ -1,3 +1,8 @@
+Chromosomal replication initiator protein DnaA. /id=PRO_0000114194.
+DNA polymerase III subunit beta; Validated
 S4 domain protein YaaA
 DNA replication and repair protein RecF. /id=PRO_0000196424.
 30S ribosomal protein S6. /id=PRO_0000176781.
+Replication protein A, class 2b aminoacyl-tRNA synthetases, and related proteins with oligonucleotide/oligosaccharide (OB) fold.
+30S ribosomal protein S18. /id=PRO_0000111167.
+c-di-AMP phosphodiesterase, consists of a GGDEF-like and DHH domains [Signal transduction mechanisms]

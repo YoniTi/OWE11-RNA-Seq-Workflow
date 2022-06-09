@@ -1,3 +1,8 @@
+lp_0001	{'lpl02020': 'Two-component system'}
+lp_0002	{'lpl03030': 'DNA replication', 'lpl03430': 'Mismatch repair', 'lpl03440': 'Homologous recombination'}
 lp_0004	
 lp_0005	{'lpl03440': 'Homologous recombination'}
 lp_0009	{'lpl03010': 'Ribosome'}
+lp_0010	{'lpl03030': 'DNA replication', 'lpl03430': 'Mismatch repair', 'lpl03440': 'Homologous recombination'}
+lp_0011	{'lpl03010': 'Ribosome'}
+lp_0012	
