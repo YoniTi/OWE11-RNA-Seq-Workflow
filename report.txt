@@ -10,7 +10,7 @@ Gene: 342240347
 Gene: 342240348
 Gene: 342240355
 
-Results per Gene:
+Results by Gene:
 
 Gene ID:	lp_0001
 Converted Gene ID:	38257539
